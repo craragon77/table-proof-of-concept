@@ -1,0 +1,54 @@
+{
+    "get_practicelist": [
+        {
+            "practcode": "460",
+            "practname": "Land Clearing",
+            "studycount": 1
+        },
+        {
+            "practcode": "472",
+            "practname": "Access Control",
+            "studycount": 1
+        },
+        {
+            "practcode": "562",
+            "practname": "Recreation Area Improvement",
+            "studycount": 1
+        },
+        {
+            "practcode": "314",
+            "practname": "Brush Management",
+            "studycount": 8
+        },
+        {
+            "practcode": "315",
+            "practname": "Herbaceous Weed Treatment",
+            "studycount": 4
+        },
+        {
+            "practcode": "614",
+            "practname": "Watering Facility",
+            "studycount": 3
+        },
+        {
+            "practcode": "550",
+            "practname": "Range Planting",
+            "studycount": 7
+        },
+        {
+            "practcode": "382",
+            "practname": "Fence",
+            "studycount": 2
+        },
+        {
+            "practcode": "338",
+            "practname": "Prescribed Burning",
+            "studycount": 4
+        },
+        {
+            "practcode": "528",
+            "practname": "Prescribed Grazing",
+            "studycount": 10
+        }
+    ]
+}
